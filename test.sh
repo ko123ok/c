@@ -1,6 +1,5 @@
 #!/bin/bash
-num=
-1
+num=1
 
 while (($num < 5));
 do
